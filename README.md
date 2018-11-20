@@ -248,5 +248,4 @@ A number of companies offer proprietary tools for PostgreSQL. They often consist
 
 
 <h2>Reference site<h2>
-  
 https://www.wikipedia.org/
